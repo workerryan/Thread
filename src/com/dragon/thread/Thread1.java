@@ -33,9 +33,7 @@ public class Thread1 implements Runnable {
 				}
 				n.notifyAll();
 			}
-			
 		}
-		
 	}
 
 }
